@@ -1,0 +1,24 @@
+.container{
+    margin: 20px auto;
+    border-style: solid;
+} 
+
+.card{
+    margin: 20px auto;
+    padding: 5px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    background-color: #c3c3c3;
+}
+
+body{
+    background-image: url(https://66.media.tumblr.com/7e5b2033f6054efea43e8ad4c29329b1/43ba41c810f57ef7-71/s1280x1920/56415154dc0a463b53415bbe07f9fede0d29ada9.png);
+    background-repeat: repeat;
+    background-size: 100px;
+}
+
+p{
+    background-color: #c3c3c3;
+    margin: 20px auto;
+}
